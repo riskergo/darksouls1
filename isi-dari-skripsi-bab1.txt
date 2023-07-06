@@ -1,5 +1,7 @@
 this information obtained from CHAT-GPT
+    BAB 1 Pendahuluan yang berisi
 
+1.1 Latar Belakang
 Latar belakang (background) merujuk pada bagian dari penulisan akademik di mana penulis memberikan konteks dan pemahaman tentang topik atau masalah penelitian yang diteliti. Bagian latar belakang bertujuan untuk menggambarkan landasan teoritis, relevansi topik, dan kebutuhan penelitian yang dilakukan.
 Di dalam latar belakang, penulis menyajikan pemahaman tentang konteks yang melatarbelakangi penelitian, termasuk:
 Pengenalan topik: Penjelasan singkat tentang topik penelitian dan mengapa topik tersebut penting untuk diteliti. Penulis menjelaskan mengapa topik penelitian menarik perhatian dan memberikan konteks yang diperlukan bagi pembaca untuk memahami relevansi penelitian.
@@ -29,3 +31,30 @@ Identifikasi Masalah Penelitian: Masalah penelitian yang relevan adalah bagaiman
 Tujuan Penelitian: Tujuan penelitian ini adalah untuk menganalisis dampak perubahan iklim terhadap keanekaragaman hayati di hutan hujan tropis. Penelitian ini bertujuan untuk menyediakan pemahaman yang lebih baik tentang mekanisme dan konsekuensi perubahan iklim pada keanekaragaman hayati di ekosistem ini.
 Relevansi Penelitian: Penelitian ini penting karena hutan hujan tropis adalah salah satu sumber keanekaragaman hayati terbesar di dunia, yang juga memiliki peran penting dalam menjaga keseimbangan ekosistem global. Memahami dampak perubahan iklim terhadap keanekaragaman hayati di hutan hujan tropis dapat membantu dalam merancang strategi perlindungan, konservasi, dan mitigasi untuk menjaga keberlanjutan ekosistem ini.
 Dengan latar belakang tersebut, penelitian ini dapat ditempatkan dalam konteks yang lebih luas, memberikan pemahaman tentang isu yang diteliti, dan memberikan dasar yang kuat untuk menjelaskan relevansi dan tujuan penelitian.
+
+
+
+
+
+1.2 Rumusan Masalah
+
+Merupakan penyajian pertanyaan atau pernyataan yang jelas dan terfokus tentang masalah yang akan diteliti dalam karya ilmiah tersebut. Rumusan masalah memainkan peran penting dalam menentukan arah dan lingkup penelitian serta memberikan pemahaman tentang tujuan penelitian yang ingin dicapai.
+Rumusan masalah harus memenuhi beberapa karakteristik, antara lain:
+Spesifik: Masalah yang dirumuskan harus jelas dan terbatas dalam cakupannya. Hal ini membantu memastikan bahwa penelitian tidak terlalu luas atau terlalu terbatas, sehingga dapat diteliti secara mendalam.
+Relevan: Masalah yang dirumuskan harus memiliki relevansi yang signifikan terhadap bidang studi atau disiplin ilmu yang diteliti. Hal ini memastikan bahwa penelitian memiliki nilai dan kontribusi yang penting bagi pemahaman atau aplikasi dalam bidang tersebut.
+Terfokus: Rumusan masalah harus mengarah pada satu atau beberapa aspek spesifik yang ingin diteliti. Hal ini membantu dalam menyusun metodologi penelitian yang sesuai dan memberikan fokus yang jelas dalam upaya mencari jawaban atau solusi.
+Mengundang penelitian: Rumusan masalah harus merangsang minat dan penasaran untuk menjawabnya melalui penelitian. Hal ini memastikan bahwa penelitian memiliki nilai keilmuan dan kontribusi dalam mengembangkan pemahaman atau memecahkan masalah yang ada.
+Rumusan masalah dapat berbentuk pertanyaan penelitian atau pernyataan masalah. Pertanyaan penelitian lebih umum digunakan dan mengarahkan penelitian untuk mencari jawaban atau solusi tertentu. Pernyataan masalah, di sisi lain, merumuskan permasalahan yang ingin dipecahkan atau dianalisis secara mendalam.
+Rumusan masalah yang baik menjadi landasan untuk seluruh penelitian, membantu menetapkan tujuan, ruang lingkup, dan batasan penelitian yang akan dilakukan. Ini juga memudahkan penulis dalam merancang metodologi penelitian yang sesuai untuk mengumpulkan data dan menganalisis hasilnya.
+
+Contoh 1:
+Topik Penelitian: Pengaruh Media Sosial terhadap Kesejahteraan Emosional Remaja
+Rumusan Masalah: Bagaimana penggunaan media sosial berhubungan dengan kesejahteraan emosional remaja?
+Contoh 2:
+Topik Penelitian: Pengaruh Pendidikan Seks Komprehensif terhadap Perilaku Seksual Remaja
+Rumusan Masalah: Apa pengaruh penerapan pendidikan seks komprehensif terhadap perilaku seksual remaja?
+Pada contoh pertama, rumusan masalah mengeksplorasi hubungan antara penggunaan media sosial dan kesejahteraan emosional remaja. Penelitian ini dapat menguji apakah penggunaan media sosial berhubungan dengan peningkatan risiko masalah kesejahteraan emosional, seperti depresi atau kecemasan, pada remaja.
+Pada contoh kedua, rumusan masalah mengeksplorasi pengaruh penerapan pendidikan seks komprehensif terhadap perilaku seksual remaja. Penelitian ini dapat menginvestigasi apakah penerapan pendidikan seks yang mencakup aspek pengetahuan, sikap, dan keterampilan dapat berkontribusi pada perilaku seksual yang lebih sehat dan bertanggung jawab pada remaja.
+Dalam kedua contoh tersebut, rumusan masalah memberikan fokus yang jelas pada variabel-variabel yang ingin diteliti (penggunaan media sosial dan kesejahteraan emosional remaja, serta penerapan pendidikan seks komprehensif dan perilaku seksual remaja). Rumusan masalah ini dapat menjadi dasar untuk merancang penelitian yang lebih terperinci, melibatkan metode pengumpulan data yang relevan, dan menganalisis hasil penelitian secara sistematis.
+
+
